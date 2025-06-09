@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "com.basic.flutter",
+            "package_name": "com.basic.flutter",
+            "sha256_cert_fingerprints": [
+                "A7:52:59:D9:D3:80:13:B5:9A:E3:22:A6:B7:64:FF:6D:8E:1B:B4:D6:9C:9C:8B:D1:2D:48:82:71:02:1A:CC:2F"
+            ]
+        }
+    }
+]
